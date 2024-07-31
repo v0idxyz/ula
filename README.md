@@ -19,7 +19,7 @@ Here's how you can install this on your Server!
 
 # Set up your Names and Greetings
 mine are personalized so i am not giving them away, but you can set your own in emojis.txt and names.txt
-´´´
+```
 
 ## Contributing
 just open a pull request and if i like it i'll accept
